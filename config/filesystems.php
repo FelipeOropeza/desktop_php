@@ -60,6 +60,10 @@ return [
             'report' => false,
         ],
 
+        'native' => [
+            'driver' => 'nativeblade',
+        ],
+
     ],
 
     /*
